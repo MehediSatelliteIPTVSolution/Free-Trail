@@ -84,3 +84,6 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/824
 
 #EXTINF:-1 tvg-id="" tvg-name="Zee Action" tvg-logo="https://yt3.ggpht.com/a/AGF-l788QgNXRt5ZqgtorGMzJaEOCaR4lEDoxVGXxw=s288-c-k-c0xffffffff-no-rj-mo" group-title="Hindi",Zee Action
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/181
+
+#EXTINF:-1 tvg-id="" tvg-name="Gaan Bangla" tvg-logo="http://projapoti.live/img/channels/gaan-bangla.jpg" group-title="Bangla",Gaan Bangla
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/121
