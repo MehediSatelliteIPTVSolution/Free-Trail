@@ -1,59 +1,86 @@
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-GXdlFshR5WE/VhyWOUVeB0I/AAAAAAAABP8/3QQypKE6c0o/w1200-h630-p-k-no-nu/atn-bangla.jpg" group-title="BDIX01",ATN Bangla
-PWdUZHowbUx6dG1iMWgyWXZFR2JuNVdZaTlsYjBGMkxsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="https://i.imgur.com/bWGqJhm.png" group-title="Bangla",BTV
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/663
 
-#EXTINF:-1 tvg-logo="https://www.channelionline.com/wp-content/uploads/2019/07/channel-i-logo-1.png" group-title="BDIX01",Channel I
-PT1BTzFOVGJ1TTNhdVZIYWo5U2FmeFdadTVXWW9OMkxsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="https://i.imgur.com/85zyKWB.jpg" group-title="Bangla",BTV World
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/664
+
+#EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/120px-ATN_Bangla.svg.png" group-title="Bangla",ATN Bangla
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/204
+
+#EXTINF:-1 tvg-id="" tvg-name="Channel I" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="Bangla",Channel I
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/643
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="ICC 2",Ekushey TV
 http://103.205.133.14/hls/ekushey.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="BDIX01",NTV
-PT1BTzFOVGJ1TTNhdVZIYWo5aWQwNTJMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEdadVlIZHdsbUw1eEdidkJIZHA5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-id="" tvg-name="RTv" tvg-logo="https://lh3.googleusercontent.com/RiRI3w6Tu0zfMOvIVHsV2keLlWvgs63EX4jqoDMZXB9Nu4Xv_116rvVjOOM7ZFT5pw" group-title="Bangla",RTv
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/145
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqdKl40.png" group-title="BANGLADESH",NTV (UK)
-https://a.jsrdn.com/r-373576a1/publish/22680_3BR3zocwi9/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqdKl40.png" group-title="BANGLADESH",NTV (US)
-https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boishakhi TV" tvg-logo="http://boishakhionline.com/frontend_source/assets/images/logo.png" group-title="Bangla",Boishakhi TV
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/219
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSGPCmBgjEseXegUFsZnAMzEuqNJNopLpApz8XhEBAv5JWtSYbT&usqp=CAU" group-title="BDIX01",RTV
-NFUzTXQ1Q2R6bEdiNUZHYnc5aWQwSjNMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEdadVlIZHdsbUw1eEdidkJIZHA5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-id="" tvg-name="Bangla Vision" tvg-logo="https://2.bp.blogspot.com/-nSAt2ZYVv88/WVgtf_7hEGI/AAAAAAAAJOI/7332rsjOhOk4YWhK_ok-1y5b57iTLaCEACLcBGAs/s1600/bangla%2Bvision.png" group-title="Bangla",Bangla Vision
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/94
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boishakhi.jpg" group-title="BDIX01",Boishakhi TV
-PT1BTzFOVGJ1TTNhdVZIYWo5aWQwOVZhb3RXWW9OWGF2SjJMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEdadVlIZHdsbUw1eEdidkJIZHA5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-id="" tvg-name="Desh Tv" tvg-logo="https://2.bp.blogspot.com/-9EB96ZSuOMw/WHSSgQ3NkTI/AAAAAAAAFzE/hrs2OdLhrVw5zqVfGQn5cDdCq2PrL2DhACLcB/w1200-h630-p-k-no-nu/desh-tv-2.jpg" group-title="Bangla",Desh Tv
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/176
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bangla_vision.jpg" group-title="BDIX01",Banglavision TV
-PWdUZHowbUx6dG1iMWgyWXY0MmJwTlhhMjlWWXNkbWJoSjJMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEdadVlIZHdsbUw1eEdidkJIZHA5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-id="" tvg-name="MyTv" tvg-logo="https://wpgroupbd.com/wp-content/uploads/2017/06/my-tv-300x169.jpg" group-title="Bangla",MyTv
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/647
 
-#EXTINF:-1 tvg-logo="https://www.desh.tv/images/siteicons/logo.png" group-title="BDIX01",Desh TV
-PWdUZHowbUx6dG1iMWgyWXZZSGRmaDJjbFIyTGxaWGFzOUNkbDVtTHY5R1pocFdhbmxHWnVZSGR3bG1MNXhHYnZCSGRwOXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-id="" tvg-name="Mohona Tv" tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="Bangla",Mohona Tv
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/769
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BDIX04",MY TV [BD]
-PWdUZHowbUx6dG1iMWgyWXZZSGRmbFhidlVtZHB4MkwwVm1idTgyYmtGbWFwZFdhazVpZDBCWGF1RURNbGRHWmw5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-id="" tvg-name="Bijoy Tv" tvg-logo="https://i.imgur.com/EuLoh3I.png" group-title="Bangla",Bijoy Tv
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/771
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="BDIX04",MOHONA TV [BD]
-NFUzTXQ1eWNyNVdkb04yTDJSM1hoNTJibzlXYnZVbWRweDJMMFZtYnU4MmJrRm1hcGRXYWs1aWQwQlhhdUVETWxkR1psOXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-id="" tvg-name="Masranga" tvg-logo="http://maasranga.tv/wp-content/uploads/2016/02/logo1.gif" group-title="Bangla",Masranga
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/130
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="BDIX01",Maasranga
-PT1BTzFOVGJ1TTNhdVZIYWo5U1luNVdZeU5YWWgxMkxsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="JADOO LIVE",CHANNEL 9 [BD]
+https://edge01.iptv.digijadoo.net/live/channel_9/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/390px-Channel9_bd.svg.png" group-title="BDIX01",Channel 9
-PT1BTzFOVGJ1TTNhdVZIYWo5U09meFdadTVXWW9OMkxsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-id="" tvg-name="Asian Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="Bangla",Asian Tv
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/91
 
-#EXTINF:-1 tvg-logo="http://gazitv.com/wp-content/uploads/2016/08/Logo.png" group-title="BDIX01",Gazi Tv
-PWdUZHowbUx6dG1iMWgyWXZZSGRmbG1laGQyTGxaWGFzOUNkbDVtTHY5R1pocFdhbmxHWnVZSGR3bG1MNXhHYnZCSGRwOXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-id="" tvg-name="Gazi" tvg-logo="https://i.pinimg.com/736x/f5/77/3a/f5773af3fddadf55fd3db4777c4e75a0.jpg" group-title="Bangla",Gazi
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/122
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/asian_tv_bd.jpg" group-title="BDIX01",Asian TV
-NFUzTXQ1eWNyNVdkb04yTDJSM1h1RldhekYyTGxaWGFzOUNkbDVtTHY5R1pocFdhbmxHWnVZSGR3bG1MNXhHYnZCSGRwOXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-id="" tvg-name="SATV" tvg-logo="https://www.satv.tv/wp-content/uploads/2017/07/logo1.png" group-title="Bangla",SATV
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/220
 
-#EXTINF:-1 tvg-logo="https://www.akashdth.com/assets/uploads/channels_images/satv.png" group-title="BDIX01",SA TV
-PWdUZHowbUwwTlhhc2xYWXNCM0wyUjNYaE4zTGxaWGFzOUNkbDVtTHY5R1pocFdhbmxHWnVZSGR3bG1MNXhHYnZCSGRwOXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-id="" tvg-name="Deepto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Deepto_TV_logo.png/240px-Deepto_TV_logo.png" group-title="Bangla",Deepto TV
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/205
 
-#EXTINF:-1 tvg-logo="https://www.deepto.tv/img/toplogo.png" group-title="BDIX01",Deepto TV
-PT1BTzFOVGJ1TTNhdVZIYWo5aWQwOTFiMEJYWmxSMkxsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-id="" tvg-name="Bangla TV" tvg-logo="https://i.imgur.com/YWVt5Yw.jpg" group-title="Bangla",Bangla TV
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/665
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YWVt5Yw.jpg" group-title="MIXED01",BANGLA TV HD [BD]
-PWdUZHowbUx6dG1iMWgyWXZrVE10WUhkaHgyWnVGbVl2VW1kcHgyTHhnRE00b0RPeElqTHlBak11UVRNeTR5TXdFekx2b0RjMFJIYQ==
+#EXTINF:-1 tvg-id="" tvg-name="Nagorik" tvg-logo="https://yt3.ggpht.com/a/AGF-l7-b-n3tWCy4xe_62Eofp73qSS-7oaqnSIY7Jw=s288-c-k-c0xffffffff-no-rj-mo" group-title="Bangla",Nagorik
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/136
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tVujSyj.jpg" group-title="MIXED01",NAGORIK TV HD [BD]
-PT1BTzFOVGJ1TTNhdVZIYWo5eWFwSjNibkZtYnZVbWRweDJMeGdETTRvRE94SWpMeUFqTXVRVE15NHlNd0V6THZvRGMwUkhh
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/04/19/starspoerts1.jpg" group-title="Sports",Star Sports 1
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/661
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2" tvg-logo="https://img.favpng.com/10/17/10/star-sports-star-india-television-channel-sony-ten-2-png-favpng-uuyETKtmMTCbpZD1eCcrqWShh.jpg" group-title="Sports",Star Sports 2
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/200
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 1" tvg-logo="https://www.satlogo.com/hires/ss/star_sports_hk_select_hd_2.png" group-title="Sports",Star Sports Select 1
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/212
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 2" tvg-logo="https://mplan.media/wp-content/uploads/2018/03/Star-Sports-Select-2.png" group-title="Sports",Star Sports Select 2
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/198
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold Select HD" tvg-logo="https://imgur.com/03b47c0b-9dcd-4dff-ad8b-c3dbd3f27538" group-title="Hindi",Star Gold Select HD
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/823
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus" tvg-logo="https://yt3.ggpht.com/a/AGF-l78ObozZI_4e60v5QkvmKJDJQkjhjdYlzwRsRw=s900-c-k-c0xffffffff-no-rj-mo" group-title="Hindi",Star Plus
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/152
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema" tvg-logo="https://img.favpng.com/13/23/8/zee-cinema-television-channel-zee-tv-zee-entertainment-enterprises-png-favpng-E6e7K9SE2pC3X4RVYWfQ7qpeh.jpg" group-title="Hindi",Zee Cinema
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/182
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema HD" tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="Hindi",Zee Cinema HD
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/824
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Action" tvg-logo="https://yt3.ggpht.com/a/AGF-l788QgNXRt5ZqgtorGMzJaEOCaR4lEDoxVGXxw=s288-c-k-c0xffffffff-no-rj-mo" group-title="Hindi",Zee Action
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/181
