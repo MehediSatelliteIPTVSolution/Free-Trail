@@ -65,17 +65,18 @@ https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="AMRBD LIVE",Zee Bangla Cinema HD [IN] 
 http://103.214.202.218:8081/live/zeebanglacinema-33/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="ICC 2",Sony Aath
+http://103.205.133.14/hls/sony8.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" group-title="HINDI ENT.",STAR PLUS
+https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TBwHZ9k.jpg" group-title="HINDI ENT.",STAR PLUS HD
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="EBox2",Sony TV 
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="EBox2",Sony TV
 http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
 
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="ICC 2",& TV 
-http://103.205.133.14/hls/andtv.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="ICC 2",Sony Aath 
-http://103.205.133.14/hls/sony8.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/ceKNpFn.png" group-title="KS",Ary Asia 
-https://itpolly.iptv.digijadoo.net/live/ary_asia/chunks.m3u8 
+
