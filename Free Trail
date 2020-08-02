@@ -41,9 +41,6 @@ https://itpolly.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/SpBW5W2.png" group-title="Others",BBC World News 
 http://220.158.149.28:8180/TV00000000000000000112@HHZT
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/CuqQXZz.png" group-title="KS",CNN 
-https://itpolly.iptv.digijadoo.net/live/cnn/chunks.m3uts
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/Mxm77nQ.png" group-title="KS",Al Jazeera 
 https://itpolly.iptv.digijadoo.net/live/al_jazeera/chunks.m3u8
 
