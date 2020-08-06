@@ -112,9 +112,6 @@ https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8
 https://edge01.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 
 
-#EXTINF:-1 ,Duronto TV
-https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
-
 #EXTINF:-1 ,Nick Sonic Bangla
 https://edge01.iptv.digijadoo.net/live/sonic/chunks.m3u8
 
@@ -129,19 +126,6 @@ http://ws.flv.nimo.tv:80/live/su1599512427629r6867b820ecdb882cd1df6a2971cf8dea.f
 
 #EXTINF:0 tvg-country="BD" tvg-logo="none" group-title="Kids",Tom & Jerry
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
-
-
-#EXTINF:-1 ,National Geographic
-https://edge01.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary",Nat Geo HD
-http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet
-http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",ANIMAL PLANET HD
-http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gQuUBTU.png" group-title="Documentary",NGC
 http://103.214.202.218:8081/live/natgeohd/chunks.m3u8
