@@ -174,9 +174,3 @@ http://livetv.colorsbd.com:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="Sports",Ten Sports PK
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_tensports/chunks.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/Ib5FGfe.png" group-title="Sports",212.Ad Sports 2
-http://103.49.168.172:8081/ebox/adsports2/chunks.m3u8
-
-#EXTINF:-1 group-title="Sports",210.Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
