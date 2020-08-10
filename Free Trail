@@ -30,9 +30,6 @@ https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="BANGLA",MOHONA TV
-http://103.214.202.218:8081/live/mohona/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="BANGLA",MOHONA TV
 https://edge01.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="BANGLA",ASIAN TV HD
